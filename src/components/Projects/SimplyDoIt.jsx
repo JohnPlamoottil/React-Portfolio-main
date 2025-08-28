@@ -1,7 +1,7 @@
-import JS from "../../assets/JavaScript.svg";
+// import JS from "../../assets/JavaScript.svg";
 import React from "../../assets/React.svg";
 import Tailwind from "../../assets/Tailwind.svg";
-import Node from "../../assets/NODE.svg";
+import Node from "../../assets/Node.svg";
 import Mongo from "../../assets/Mongo.svg";
 import Simply1 from "../../images/Simply1.png";
 import Cloud from "../../assets/Cloud.svg";
